@@ -73,7 +73,6 @@ npx hardhat run scripts/deploy-erc721r.js --network energiTestnet
 npx hardhat run scripts/deploy-erc721r80.js --network energiTestnet
 ```
 
-
 **Deploy standard NFT contracts on mainnet**
 
 ```sh
